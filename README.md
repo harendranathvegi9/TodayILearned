@@ -1,2 +1,3 @@
-# til
-:blue_book: Today I Learned
+# Today I Learned
+
+A collection of small things that I learn day by day...
